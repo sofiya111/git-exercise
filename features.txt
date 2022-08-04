@@ -1,0 +1,8 @@
+luhn.v1.0 Luhn checker implemented
+mir.v1.0 Mir payment system implemented
+visa_classic.v1.0 Visa classic system implemented
+visa_gold.v1.0 Visa gold system implemented
+visa_electron.v1.0 Visa electron system implemented
+mastercard_classic.v1.0 Mastercard system implemented
+mastercard_maestro.v1.0 Mastercard maestro system implemented
+mastercard_electronic.v1.0 Mastercard electronic system implemented
